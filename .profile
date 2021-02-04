@@ -38,7 +38,7 @@ export PATH="/usr/local/opt/mysql-client/bin:$PATH"
 ########################
 # Preferred editor     #
 ########################
-EDITOR=nano
+export EDITOR=nano
 
 ########################
 # Aliases              #
