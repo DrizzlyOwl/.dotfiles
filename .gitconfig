@@ -1,2 +1,12 @@
 [core]
-	excludesfile = ~/.gitignore_global
+        excludesfile = /Users/a.davies/.gitignore_global
+[user]
+        name = DrizzlyOwl
+        email = XXX@gmail.com
+        signingkey = XXX
+[commit]
+        gpgsign = true
+[pull]
+        rebase = false
+[color]
+        ui = true
