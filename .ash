@@ -33,6 +33,7 @@ export PATH="/Applications/MAMP/bin/php/php7.3.24/bin:$PATH"
 export PATH="$HOME/.composer/vendor/bin:$PATH"
 export PATH="/usr/local/opt/python/bin:$PATH"
 export PATH="/usr/local/opt/ruby/bin:$PATH"
+export PATH="$HOME/.MAMP_BIN:$PATH"
 
 ########################
 # Preferred editor     #
